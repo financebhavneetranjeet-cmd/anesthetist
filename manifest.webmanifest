@@ -1,0 +1,16 @@
+{
+  "name": "Anesthetist On Call – Amritsar",
+  "short_name": "Anesthetist On Call",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
